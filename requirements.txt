@@ -1,0 +1,17 @@
+openai
+mistralai
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+faiss-cpu
+chromadb
+sentence-transformers
+pandas
+numpy
+pypdf
+python-docx
+fastapi
+uvicorn
+requests
+httpx
