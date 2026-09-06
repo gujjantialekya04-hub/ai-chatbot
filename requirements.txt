@@ -15,3 +15,8 @@ fastapi
 uvicorn
 requests
 httpx
+streamlit
+transformers
+torch
+accelerate
+sentencepiece
