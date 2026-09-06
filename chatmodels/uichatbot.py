@@ -8,7 +8,6 @@ def load_model():
         "text-generation",
         model="Qwen/Qwen2.5-1.5B-Instruct"
     )
-
 chatbot = load_model()
 
 # Page title
