@@ -2,7 +2,7 @@ from transformers import pipeline
 from langchain_core.messages import AIMessage,SystemMessage,HumanMessage
 chatbot = pipeline(
     "text-generation",
-    model = "Qwen/Qwen2.5-1.5B-Instruct"
+    model="Qwen/Qwen2.5-0.5B-Instruct"
 )
 print("Bot: Hello krushik alekya always loves you! Type 0 to exit.")
 while True:
