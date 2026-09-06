@@ -1,3 +1,9 @@
+streamlit
+transformers==4.56.0
+torch
+accelerate
+sentencepiece
+safetensors
 openai
 mistralai
 langchain
@@ -15,8 +21,3 @@ fastapi
 uvicorn
 requests
 httpx
-streamlit
-transformers
-torch
-accelerate
-sentencepiece
